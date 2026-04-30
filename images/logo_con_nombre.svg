@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 950">
+  <rect width="100%" height="100%" fill="none"/>
+
+  <!-- ICONO (PNG) -->
+  <!-- Cambia 650 si lo quieres más grande/pequeño -->
+  <image
+    x="0" y="40"
+    width="1200" height="850"
+    preserveAspectRatio="xMidYMid meet"
+    href="logodefinitivo.png"
+  />
+
+  <!-- TEXTO: justo debajo del icono (y = 40 + 650 + 40 = 730) -->
+  <text x="600" y="790"
+        text-anchor="middle"
+        font-family="Inter, Manrope, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+        font-size="132" font-weight="700" letter-spacing="-2">
+    <tspan fill="#003264">MX</tspan><tspan fill="#058775">Lab</tspan>
+  </text>
+</svg>
